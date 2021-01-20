@@ -1,0 +1,8 @@
+.product_cart{
+    max-width: 300px;
+    overflow: hidden;
+    height: 500px;
+    padding: 15px;
+    box-sizing: 0 0 15px #ddd;
+    margin: 10px;
+}
